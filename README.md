@@ -18,8 +18,7 @@ Azure cloud solution architect, open source advocate, software hobbyist. I like 
 ---
 ### 💻 Operating Systems
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" height="50px" hspace="5px" alt="Red Hat" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="50px" hspace="5px" alt="Ubuntu" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" height="50px" hspace="5px" alt="Fedora" /><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" height="50px" hspace="5px" alt="Raspian" />
-###
----
+
 <!--
 **ralacher/ralacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
