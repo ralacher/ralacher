@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Azure cloud solution architect, open source advocate, software hobbyist. I like to work on cloud migration strategy and governance, application modernization, DevSecOps implementations, and data engineering and warehousing.
+Azure cloud solution architect, open source advocate, software hobbyist. I like to work on cloud technologies, application modernization, DevSecOps implementations, and data engineering and warehousing.
 
 ### I Like...
 ---
