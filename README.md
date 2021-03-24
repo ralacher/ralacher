@@ -2,7 +2,6 @@
 
 Azure cloud solution architect, open source advocate, software hobbyist. I like to work on cloud technologies, application modernization, DevSecOps implementations, and data engineering and warehousing.
 
-### I Like...
 ---
 ### 🌐 Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50px" hspace="5px" alt="Python" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50px" hspace="5px" alt="Bash" /><img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" height="50px" hspace="5px" alt="PowerShell" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50px" hspace="5px" alt="C#" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50px" hspace="5px" alt="Java" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50px" hspace="5px" alt="JavaScript" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50px" hspace="5px" alt="TypeScript" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50px" hspace="5px" alt="C" />
