@@ -20,7 +20,7 @@ Azure cloud solution architect, open source advocate, software hobbyist. I like 
 ###
 ---
 ### 📧 Find Me On
-<a href="https://www.linkedin.com/in/robertlacher/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25px" hspace="5px" /></a><a href="https://stackoverflow.com/story/rlacher"><img src="https://cdn.freebiesupply.com/logos/large/2x/stackoverflow-com-logo-png-transparent.png" height="25px" hspace="5px" /></a>
+<a href="https://www.linkedin.com/in/robertlacher/"><img src="linkedin.svg" height="25px" hspace="5px" /></a><a href="https://stackoverflow.com/story/rlacher"><img src="https://cdn.freebiesupply.com/logos/large/2x/stackoverflow-com-logo-png-transparent.png" height="25px" hspace="5px" /></a>
 <!--
 **ralacher/ralacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
